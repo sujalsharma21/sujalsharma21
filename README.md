@@ -18,7 +18,8 @@ Welcome to my little corner of GitHub where ideas become code, code becomes bugs
 
 🧰 Tech I Like Playing With
 
-- **Languages:** Python  
+- **Languages:** Python
+- **Database:** SQL  
 - **AI / ML:** TensorFlow, Keras, LSTM, OpenCV, Sklearn 
 - **Web:** HTML, CSS, React (sometimes)  
 - **Tools:** Git, GitHub, VS Code  
